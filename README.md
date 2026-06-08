@@ -158,13 +158,16 @@ python -m streamlit run main.py
 
 ## 📸 Screenshots
 
-Add screenshots here after deployment:
 
-* <img width="1892" height="732" alt="Screenshot 2026-06-08 154145" src="https://github.com/user-attachments/assets/b4e3e987-30a9-43dc-a45e-ae618ca89311" />
 
-* Sentiment Result
-* Star Rating Visualization
-* Tone Analysis Panel
+ <img width="1892" height="732" alt="Screenshot 2026-06-08 154145" src="https://github.com/user-attachments/assets/b4e3e987-30a9-43dc-a45e-ae618ca89311" />
+
+<img width="1893" height="1031" alt="Screenshot 2026-06-08 154215" src="https://github.com/user-attachments/assets/c1e571c6-4db1-4f73-9ffb-b5fc49049ece" />
+
+<img width="1897" height="1023" alt="Screenshot 2026-06-08 154254" src="https://github.com/user-attachments/assets/ab6ef168-b74c-4b1f-8959-1de5e6a4dea6" />
+
+<img width="1907" height="1030" alt="Screenshot 2026-06-08 154317" src="https://github.com/user-attachments/assets/c5ed6529-cf49-458f-99fb-b7152d515519" />
+
 
 ---
 

@@ -160,7 +160,8 @@ python -m streamlit run main.py
 
 Add screenshots here after deployment:
 
-* Home Page
+* <img width="1892" height="732" alt="Screenshot 2026-06-08 154145" src="https://github.com/user-attachments/assets/b4e3e987-30a9-43dc-a45e-ae618ca89311" />
+
 * Sentiment Result
 * Star Rating Visualization
 * Tone Analysis Panel
